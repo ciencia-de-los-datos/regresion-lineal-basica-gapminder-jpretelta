@@ -7,9 +7,6 @@ import sys
 
 import preguntas
 
-preguntas = preguntas
-
-
 def test_01():
     """
     ---< Input/Output test case >----------------------------------------------------
